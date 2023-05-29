@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm a Physicist and a Computer Scientist, trying to get real value from applied research and process digitalization
 
 <!--
 **TheTuxNet/thetuxnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
